@@ -1,12 +1,16 @@
 Ethics notes
 
-    begin+ (this philosophic frame) with (or involving) a search for the creator’s reason
+    + begin (this philosophic frame) with (or involving) a search for the creator’s reason
         : re `creator’s reason` see `^*• God had reason to make the safehold$`s
           @ ~/work/safehold/aetiology/text.brec
         : re `creator’s reason` see `^*• cosmocrafters have reason to.+cosmocraft lineally`s
           @ ~/work/safehold/aetiology/text.brec
-        !! wanted first is a (prior) reason to do that
-            | the opportunity (presented by the safehold) to meet ‘Anscombe’s challenge’
+        but no+
+            ∵ the normative ethic is the proper place for seeking the creator’s reason
+                : re `^*∵ (.+)$` see `^*∴ ${same}$` @
+                  `^*- the command condition is proper to normative ethics$`
+        wanted first+ is a (prior) reason to do that
+            - the opportunity (presented by the safehold) to meet ‘Anscombe’s challenge’
               of a modern (re)grounding for moral law
                 : re `‘Anscombe’s challenge’` see doi:10.1017/9781139025065 : Darwall, Stephen.  2023.
                   *Modern moral philosophy from Grotius to Kant.*  pp. 1-4
@@ -27,11 +31,18 @@ Ethics notes
                     \ 2023.  Darwall, Stephen.  *Modern moral philosophy from Grotius to Kant.*
                     \ 2025.  Darwall, Stephen.  *Modern moral philosophy in the nineteenth century.*
                     + re "Anscombe" "Modern moral philosophy"
-        / that being a practical reason, it makes the present text proper to philosophy as I conceive it,
-          viz. having as its purview|role|remit the investigation of purpose and meaning in life
-            - so echo at this point, if not state it for the first time
-            : re `purpose and meaning in life` cf. `the best on which to premise inferences of ${same}$`
-              @ `my preferred explanantia being the best` @ ../normative/._/text.notes.brec
+                wanted first+ again, is a (prior) reason to do that
+                    - analysis of the concept of moral law (on the evidence of the safehold)
+                      suffices to ground the norms and facts (application) of an ethic
+                        - given that, we have no need of (the field of) metaethics
+                            + so say under `ethics/meta/`
+                    - the two conditions of moral law (that analysis yields) apportion cleanly between
+                      the two remaining fields of ethics (normative and applied)
+                        - the command condition is proper to normative ethics
+                            ∴ the normative ethic is the proper place for seeking the creator’s reason
+                        - the enforcement condition is proper to applied ethics
+                            ∵ outside the norms that guide, the only question is the facts
+                              that move us to conform
         + argue for my preferred safehold explanantia here in the ethic (alone),
           where they figure as a premise
             : see @ ../normative/._/text.notes.brec

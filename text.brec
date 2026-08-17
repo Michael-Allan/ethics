@@ -10,3 +10,10 @@
         : re `moral law` see `^*Pearsall.+2003.+Oxford dictionary of English`s @ sources.brec :
          ‘(in some systems of ethics) an absolute principle defining the criteria of right action
           (whether conceived as a divine ordinance or a truth of reason)’
+    - for the first, what explains the presence of that safehold?
+    - a survey of possible explanantia yields only two of moral bearing:
+
+            • supernatural design by God
+                : re `^*• (.+ design) .+` see `^^${same}$` @ ~/work/safehold/aetiology/text.brec
+            • mundane design by cosmic creators
+                : re `^*• (.+ design) .+` see `^^${same}$` @ ~/work/safehold/aetiology/text.brec

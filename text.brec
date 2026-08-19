@@ -23,3 +23,20 @@
                 : re `^*• (.+ design) .+` see `^^${same}$` @ ~/work/safehold/aetiology/text.brec
             • mundane design by cosmic creators
                 : re `^*• (.+ design) .+` see `^^${same}$` @ ~/work/safehold/aetiology/text.brec
+                !! what is qualified cannot ground the absolute principle that is moral law
+                    : re `absolute principle that is moral law` see
+                      `^*: re .moral law.+an absolute principle`s
+                    - the creators, in being contingent, might be taken as qualified in a sense
+                      that makes them unfit to ground moral law
+                    | refute the premise: the mundane cosmic creators are not so qualified
+                        ∵ neither is the practical ground of their creative act, whether default or not,
+                          so qualified
+                            ∵ the default practical ground merely *contains* a qualification
+                              as opposed to being *governed* by one
+                                - it applies (its qualified content) unconditionally and universally
+                    | elevate the qualification to the law
+                        - let the qualified instead ground a qualified|contingent|default moral law
+                      \ | let the scope of the moral law be cosmic, not universal
+                      \     / thus a cosmic moral law, the moral law of our cosmos, so qualified
+                      \     ∵ within the context of their creation, even mundane creators are necessary
+                      \\    !! then cosmic creation would be amoral, out of moral scope

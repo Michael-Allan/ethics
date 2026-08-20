@@ -129,7 +129,12 @@ Ethics notes
     moral law, conditions
         : note: these according to one or another of the various divine-command theories of morality,
           divorced of its supernatural assumptions, with the creator in place of God
-        a) a command (addressed demand) of our creator
+        a) an absolute principle defining the criteria of right action
+            : re `^*a. (an absolute principle defining the criteria of right action)$`
+              see `^*: re .moral law.+${same}`s @ ~/work/ethics/text.brec
+            : join @ `^^moral law, conditions that hold$`i @ ../default/._/text.notes.brec
+        b) its command (addressed demand) by our creator
+            : cf. `^*: re .moral law.+a divine ordinance`s @ ~/work/ethics/text.brec
             : join @ `^^moral law, conditions that hold$`i @ ../normative/._/text.notes.brec
-        b) the creator’s backing of it by force
+        c) the creator’s backing of it by force
             : join @ `^^moral law, conditions that hold$`i @ ../applied/._/text.notes.brec

@@ -3,8 +3,7 @@ Ethics notes
     • mundane design by cosmic creators
         : see @ ../text.brec
         !! what is qualified cannot ground the absolute principle that is moral law
-            : re `absolute principle that is moral law`
-              see `^*: re .moral law.+an absolute principle`s @ ../text.brec
+            : re `(absolute principle) that is (moral law)` see `^*: re .${2}.+${1}`s @ ../text.brec
             - the creators, in being contingent, might be taken as qualified in a sense
               that makes them unfit to ground moral law
             | refute the premise: the mundane cosmic creators are not so qualified

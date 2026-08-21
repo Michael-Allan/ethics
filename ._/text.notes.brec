@@ -109,14 +109,32 @@ Ethics notes
                     ∵ one has neither practical warrant for the others (all being amoral),
                       nor (at present) theoretic (all resting on physics ‘yet unknown’)
     moral law, conditions
-        : note: these according to one or another of the various divine-command theories of morality,
-          divorced of its supernatural assumptions, with the creator in place of God
-        a) an absolute principle defining the criteria of right action
-            : re `^*a. (an absolute principle defining the criteria of right action)$`
-              see `^*: re .moral law.+${same}`s @ ~/work/ethics/text.brec
+        a) a principle defining the criteria of right action
+            : re `principle defining the criteria of right action`
+              see `^*: re .moral law.+${same}`s @ ../text.brec
             : join @ `^^moral law, conditions that hold$`i @ ../default/._/text.notes.brec
-        b) its command (addressed demand) by our creator
-            : cf. `^*: re .moral law.+a divine ordinance`s @ ~/work/ethics/text.brec
-            : join @ `^^moral law, conditions that hold$`i @ ../normative/._/text.notes.brec
-        c) the creator’s backing of it by force
-            : join @ `^^moral law, conditions that hold$`i @ ../applied/._/text.notes.brec
+        •) its being absolute
+            : re `absolute` see `^*: re .moral law.+a.+${same} principle`s @ ../text.brec
+            , sub-conditions that suffice
+                    : ad `suffice` : this set of sub-conditions of absoluteness is sufficient,
+                      but might or might not be necessary, depending on whether ∃ a different set
+                      that also is sufficient
+                    b) its command (addressed demand) by our creator
+                        : cf. `^*: re .moral law.+a divine ordinance`s @ ../text.brec
+                        : join @ `^^moral law, conditions that hold$`i @ ../normative/._/text.notes.brec
+                    c) the creator’s backing of it by force
+                        : join @ `^^moral law, conditions that hold$`i @ ../applied/._/text.notes.brec
+                - these suffice to remove any qualification of the principle and thereby make it absolute
+                    / here the particular principle that meets condition (a) is a principle of logic
+                      carrying the implicit qualification, ‘if one wishes to act logically’
+                    ∵ together they make the principle obligatory without qualification
+                        / here they make the principle of logic apply regardless of one’s wishes,
+                          whether one likes it or not
+                    admit+ however a qualification of scope (cosmic) re the case of mundane creators
+                        - probably in that case the qualification must be elevated to the moral law,
+                          making it cosmic as opposed to universal in scope
+                            ∵ only a universal creator (God) could obligate universally
+                            / though the difference between cosmic and universal could hardly matter
+                              in practice
+                        / yet (a mitigation) the scope of obligation could at least be multi-cosmic,
+                          in being lineally inherited

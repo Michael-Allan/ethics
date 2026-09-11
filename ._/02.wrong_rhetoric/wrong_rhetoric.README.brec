@@ -42,10 +42,15 @@ Wrong rhetoric
           ‘But that is not how the key works.  Rather {“think, think”}.  That is the way. —
           For this one|we|I|you need a proven answer.’
             : note : notepad entry 2026-9-9b
+            : re `seemingly without end, .+But that is not how the key works`s
+              viz. `that this apparent endlessness.+amounts.+to a.+stable ground`s @
+              ~/work/ethics/default/._/text.notes.brec
             : re `“(think, think)”` viz. `${same} what is promised`
         ' ‘No, not in speculation; rather [we find the answer|{method of answering}] [resting]
           in something [much] more reliable, if only because it is something that [already]
           is contained within the question [itself], namely [our] ignorance.’
+            : re `speculation` viz. `that this apparent endlessness.+amounts.+to a.+stable ground`s @
+              ~/work/ethics/default/._/text.notes.brec
             : note : notepad entry 2026-9-9c
         salvage: meaning from under the metaphor
             ● necessity of the question

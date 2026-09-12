@@ -52,19 +52,28 @@ Wrong rhetoric
             : re `speculation` viz. `that this apparent endlessness.+amounts.+to a.+stable ground`s @
               ~/work/ethics/default/._/text.notes.brec
             : note : notepad entry 2026-9-9c
-        salvage: meaning from under the metaphor
+        salvage: meaning from under the metaphor of an entry key
+            : re `metaphor of.+(entry) (key)`
+              viz. `^*' ‘Our.+${1}.+is.+the.+safehold, .+our.+${2}.+is the question, “To what end\?”’`sp
             ● necessity of the question
-                = satisfaction of reason’s urging
-                = method of answering
-                    : re `= (.+)` see `^*⇒ ${same}`
-            ⇒ the prospect of [having] an answer
-                = the prospect of the fact \ of course
-                    : re `fact` see `^*⇒ the fact of an answer`
-            ⇒ method of answering
-                = analysis of the question
+                = (causal-theoretic) to satisfy reason’s urging
+                = (technical-practical) to discover a method of answering
+                    : re `to (discover) (a method.+)$` e.g. `^*⇒ ${1}y of one$` @ `^*─ ${2}$`
+                / causing:
+            ⇒ the prospect of (the value of) [having] an answer (in the context of the safehold)
+                : re `an answer.+` viz. `^*⇒ the fact of ${same}`
+                / causing:
+            ⇒ the fact of the question
+                / causing:
+            ─ a method of answering
+                ⇒ discovery of one
+                    / causing:
+                ⇒ its application
+                    = analysis of the question
+                / causing:
             ⇒ the fact of an answer (in the context of the safehold)
-                = entry to philosophy
-                    → the ethic grounded and in effect
+                / causing:
+            ⇒ discovery of an ethic grounded and in effect
             ' Thus (1) the metaphoric introduction and prospect (9a) through to looking at the aetiology
               and the design explanantia (their indeterminate reasons echoing the [very] same question)
               with the promise thereby of mining further philosophic answers and ultimately grounding

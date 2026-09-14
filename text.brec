@@ -2,20 +2,21 @@
 
     - … entry to practical and moral philosophy … the cosmic safehold,
       … key … the question, ‘To what end?’
+        \ to warrant these claims and this metaphor, their explication:
     - hardly could … contemplate the prospect of entering the safehold without asking that question,
       nor make headway in the philosophy without … an answer [in the context of the safehold]
-        + warrant the first claim above, too, in what follows
-                / not just the second claim
-            | [the scale|scope of] the safehold makes remote and obscure the ultimate end,
-              which in turn presses|urges the question, making it a must-ask as claimed
-    + specify that here a ground is sought
-        : e.g. `^*' \(1\) mere supposition.+there.+could.+be a.+valid.+reason.+viz. ground` @
+        \ to warrant these claims re (cQ) the question and (cA) its answer:
+\ to warrant (cQ):
+    | [the scale|scope of] the safehold makes remote and obscure the ultimate end,
+      which in turn presses|urges the question, making it a must-ask as claimed
+\ to warrant (cA):
+    | in the prospect of a valid answer (ground)
+            \ So specifying, what is crucial herein, that in response to the question
+            \ a ground is being sought.
+        : re `prospect of a (valid) answer.+(ground).+`
+          e.g. `^*' \(1\) mere supposition.+there.+could.+be a.+${1}.+reason.+viz. ${2}` @
           ._/02.wrong_rhetoric/wrong_rhetoric.README.brec
-        | ∵ in the prospect of a valid answer (ground)
-            : re `prospect of a (valid) answer.+(ground).+`
-              e.g. `^*' \(1\) mere supposition.+there.+could.+be a.+${1}.+reason.+viz. ${2}` @
-              ._/02.wrong_rhetoric/wrong_rhetoric.README.brec
-            | … find
-                | value at stake + method of answering
-                    : re `(value) at stake` see `^*⇒ the prospect of.+the ${same}.+`s @
-                      ._/02.wrong_rhetoric/wrong_rhetoric.README.brec
+        | … find
+            | value at stake + method of answering
+                : re `(value) at stake` see `^*⇒ the prospect of.+the ${same}.+`s @
+                  ._/02.wrong_rhetoric/wrong_rhetoric.README.brec

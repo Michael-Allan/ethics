@@ -1,16 +1,10 @@
 Practical philosophy notes: toward a trial text for critical readers
     : re `critical readers` viz. `senior students` @ 01.lynchpin/00.lynchpin.brec
 
-    restart+ on the right foot
-        : see @ 02.wrong_rhetoric/wrong_rhetoric.README.brec
-        - let the argument (bare and unencumbered) speak for itself
-            : see @ 02.wrong_rhetoric/wrong_rhetoric.README.brec
-            - so I did
-            - already it pleads for rhetoric, as follows
-                / albeit only a shred, what a single leading sentence might deliver
-        + orient the reader from the outset
-            tether+ to the (abtruse) mystery of the safehold’s presence a larger (more pressing) mystery
-            - viz. that of morality, or the (popular but derided) ‘meaning of life’, or both together
-                ?+ ad ‘both’, who conjoins them, and how?
-        + sieze the reader’s attention
-            promise+ a solution to the former that solves also the latter
+    + go straight into the unadorned argument
+        : re `^. (.+)` see `${same}$` @ 02.wrong_rhetoric/wrong_rhetoric.README.brec
+        + begin with the premise of coinciding ends
+            : re `(coincid)ing ends` see `a.+surprising.+larger ${same}ence` @
+              02.wrong_rhetoric/._/text.notes.brec
+            + infer from coincidence (ii, iii) → that also (i) coincides
+            + infer from coincidence (i, iii) → moral law

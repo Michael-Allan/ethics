@@ -1,11 +1,73 @@
 Practical philosophy notes: toward a trial text for critical readers
     : re `critical readers` viz. `senior students` @ ../01.lynchpin/00.lynchpin.brec
 
+
+    + go straight into the unadorned argument
+        : re `^. (.+)` see `${same}$` @ ../02.wrong_rhetoric/wrong_rhetoric.README.brec
+        - logic comprising premises, inferences and conclusions
+            : ad `premises` : conventionally numbered
+        - nothing else
+            / no superfluous rhetoric, just what logic demands
+
+
+    ━━━━━  B o t c h e d   r e p a i r   3  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+        + begin with the premise of coinciding ends between (i) and (iii)
+            : re `(coincid)ing ends` see `a.+surprising.+larger ${same}ence` @
+              ../02.wrong_rhetoric/._/text.notes.brec
+            !! bad execution of repair method
+                : re `repair method` see `^*\+ go straight into the unadorned argument`
+                - an argument begins with a base premise that need not be argued for
+                - that of coinciding ends between (i) and (iii) is not a base premise
+                    : re `that (of coinciding ends between \(i\) and \(iii\))`
+                      see `^*\+ begin with the premise ${same}$`
+                - rather it is an intermediate premise that must itself be argued for
+            | directly with a leading claim of that (i, iii) coincidence
+                | a coincidence of ends evidences a source of morals whose law stands in force
+                |
+                    | [on] clear nights | [on|with] every clear night
+                    - a [shining] coincidence of ends|{end direction}
+                    -
+                        | evidences
+                        | {testifies | attests | bears witness} to
+                        | {stands | shines forth} to {attest | bear witness | testify} to
+                    - a source of morals | a moral source
+                    | whose|{and a} law [in fact] stands|runs|holds [in force|effect] [everywhere]
+            | directly with a leading claim of that (i, iii) coincidence,
+              reinforced indirectly via the related (ii, iii) coincidence
+                : re  `directly with.+\(i, iii\) coincidence`  see `^*\| ${same}$`
+                : re `indirectly via.+\(ii, iii\) coincidence` see `^*\| ${same}$`
+                : see notepad:2026-9-17c,d
+            | indirectly via the related (ii, iii) coincidence
+                : pace `^*\+ go straight`
+                + infer from coincidence (ii, iii) → that also (i) coincides
+                    | leaping to the latter (from my closest approach) by claiming it
+                        / e.g. as ‘a further coincident|coincider’
+                        → leaping into the argument
+                            = the goal here
+                    | wondering what explains (ii, iii)
+                        → seeking what else natural selection (ii) and the safehold (iii) have in common
+                            / aside from their coincident ends
+                            → end direction, of course
+                                ∵ it inheres in (ii, iii), it being a coincidence of ends
+                                → that also practical reason (i) coincides is strongly suggested
+                                    : see notepad:2026-9-17a,b : ∵ the known mechanisms|processes
+                                      of practical logic include not only natural selection,
+                                      but also, and even better known, practical reason
+                + infer from coincidence (i, iii) → moral law
+
+
+
+━━━━━  B o t c h e d   r e p a i r   2  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
     restart+ on the right foot
         : see @ ../02.wrong_rhetoric/wrong_rhetoric.README.brec
         - let the argument (bare and unencumbered) speak for itself
             : see @ ../02.wrong_rhetoric/wrong_rhetoric.README.brec
             - so I did
+                : see `^━+  B o t c h e d .+ 2  ━` @ text.brec
             - already it pleads for rhetoric, as described below
                 / albeit only a shred, what a single leading sentence might deliver
         + orient the reader from the outset

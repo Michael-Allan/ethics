@@ -10,3 +10,7 @@ Practical philosophy
                   see `the scope.+not restricted to.+the ${same}`s @ ~/work/safehold/40.observation.brec
             : re `(a safehold.+to secure the.+survival of) (mind)-bearing (populations)`p
               see `${1} ${3} of beings \(like us\) that have ${2}`p @ ~/work/safehold/40.observation.brec
+        (2) by a truth of practical logic, absent knowledge of whether ∃ a ground (stable ground)
+          and, if so, what it consists in (ground knowledge), that knowledge is itself
+          a ground (the default ground)
+            : re `^*\(\d+\) (.+)`s see `^*argue\+ that, ${same}`p @ default/._/text.notes.brec

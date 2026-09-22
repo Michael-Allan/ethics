@@ -1,6 +1,24 @@
 Practical philosophy
 
-        (1) a safehold highly fit to secure the long-term survival of mind-bearing populations
+        (1) by a truth of practical logic, absent knowledge of whether ∃ a ground (stable ground)
+          and, if so, what it consists in, that knowledge (ground knowledge) is itself
+          a ground (the default ground)
+            : re `^*\(\d+\) (.+)`s see `^*argue\+ that, ${same}`p @ default/._/text.notes.brec
+        (2) despite long efforts [in the past], ultimately|{in the end} {we have}|{∃ among us}
+          (at present) no settled consensus on the ground question or its likes
+            : re `the ground question` sc. `whether ∃ a ground.+and.+what it consists in`s
+        (3) we know (at present) of no way|method to [reliably]
+          bound|{predict|determine a [upper] bound|limit on} {how long}|{the period|{length of time}}
+          [it would take] to acquire ground knowledge
+
+        : see `^*\(1\)`
+        : see `^*\(2\)`
+        : see `^*\(3\)` :
+       ────────────────
+        (4) [practical] reason/logic directs us to carry on for a period [of time] that would
+           (in [our] [present] prospect|outlook) be open-ended and likely long
+
+        (5) a safehold highly fit to secure the long-term survival of mind-bearing populations
           extends throughout the cosmos
             : ad `long-term` : over periods on the scale of cosmogonal time,
               as opposed to the (relatively short) scale of geogenic time
@@ -10,7 +28,3 @@ Practical philosophy
                   see `the scope.+not restricted to.+the ${same}`s @ ~/work/safehold/40.observation.brec
             : re `(a safehold.+to secure the.+survival of) (mind)-bearing (populations)`p
               see `${1} ${3} of beings \(like us\) that have ${2}`p @ ~/work/safehold/40.observation.brec
-        (2) by a truth of practical logic, absent knowledge of whether ∃ a ground (stable ground)
-          and, if so, what it consists in, that knowledge (ground knowledge) is itself
-          a ground (the default ground)
-            : re `^*\(\d+\) (.+)`s see `^*argue\+ that, ${same}`p @ default/._/text.notes.brec
